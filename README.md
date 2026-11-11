@@ -74,8 +74,3 @@ Cada microservicio cuenta con su perfil configurado en `Properties/launchSetting
   `Pedidos.Api` consulta el pedido con sus detalles y resuelve la información de nombres y precios de los productos consumiendo `Catalogo.Api`.
 
 ---
-
-## 📋 Documentación de Política de IA
-
-- Documento Word: [`Declaracion_Uso_IA_TuquingaLuis_AD01.docx`](./Declaracion_Uso_IA_TuquingaLuis_AD01.docx)
-- Documento PDF: [`Declaracion_Uso_IA_TuquingaLuis_AD01.pdf`](./Declaracion_Uso_IA_TuquingaLuis_AD01.pdf)
